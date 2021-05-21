@@ -2,7 +2,7 @@
 
 My code for the assigned projects of CS187, a course that introduces and develops methods for designing and implementing abstract data types using Java. Project overviews taken from the instructions provided by the professor, as well as the grade I received on each project, is provided below.
 
-Note that the exact code that I have written would be under the TODO sections of each project.
+Note that the majority of code that I have written would be under the TODO sections of each project, though there are helper methods and classes that are not under the TODOs.
 
 ## Project 1 - Getting Started
 
@@ -43,4 +43,6 @@ Grade: 111/115; TODO sections in BinarySearchTree.java, and ScapegoatTree.java
 
 For this project, you will implement a futuristic automated emergency room (ER) triage system. Your system will receive data in the form of patient and injury pairs over time and automatically assign patients to doctors as the resources become available depending on the severity of the patient’s injury. To accomplish this, you will implement a data structure called a priority queue – more specifically, a heap-based priority queue.
 
-Grade: 65/65; TODO sections in 
+Grade: 65/65; TODO sections in Heap.java
+
+## Project 8 - Graph Coloring

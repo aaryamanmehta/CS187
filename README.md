@@ -6,20 +6,24 @@ Note that the majority of code that I have written would be under the TODO secti
 
 ## Getting Started
 
+This project is designed to familiarize you with the process of using VSCode to develop projects
+for this course, preparing and submitting your code to Gradescope, the code autograder.
 
-
-Grade: 12/12
+Grade: 12/12; TODO sections in Date.java
 
 ## RLE Encoding
 
 For this project, you will implement Run Length Encoding, or RLE, an algorithm that encodes ascii data in a compressed format. Given a text file containing an image constructed with ascii characters, RLE will encode the file in compressed form. Given a file with data in RLE compressed form, you will be able to decompress the file and recover the exact image that was originally compressed. You will use arrays as the basic data structures to implement the RLE compression and decompression algorithms.
 
-Grade: 60/60
+Grade: 60/60; TODO sections in RLEconverter.java
 
 ## Bucket Sort
 
+Most sorting algorithms you encounter are designed to be “general purpose” sorts, where any data type can be sorted as long as a method for comparing them is defined. In Java, this method is called “compareTo” in the Comparable interface. Any class that implements Comparable can be sorted because they can be compared.
 
-Grade: 95/95
+There are other sorting algorithms that do not rely on comparing data directly. These are not general purpose in the sense that they have to be customized for different types of data. In this project you will implement one of these sorting algorithms called Bucket Sort. The version of Bucket Sort will be customized to work with integers, but it could work with any symbolic language.
+
+Grade: 95/95; TODO sections in IntegerBucketSorter.java
 
 ## Linked Lists
 

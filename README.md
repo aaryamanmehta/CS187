@@ -2,7 +2,7 @@
 
 My code for the assigned projects of CS187, a course that introduces and develops methods for designing and implementing abstract data types using Java. Project overviews taken from the instructions provided by the professor, as well as the grade I received on each project, are provided below.
 
-Note that the majority of code that I have written would be under the TODO sections of each project, though there are helper methods and classes that are not under the TODOs.
+_Note that the majority of code that I have written would be under the TODO sections of each project, though there are helper methods and classes that are not under the TODOs._
 
 ## Getting Started
 
